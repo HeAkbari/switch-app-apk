@@ -1,0 +1,41 @@
+{
+  "packageId": "com.sw.app.m.twa",
+  "host": "stage-sw.emofid.com",
+  "name": "switch-app",
+  "launcherName": "switch-app",
+  "display": "fullscreen",
+  "themeColor": "#3C4F63",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#3C4F63",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://m.orbis.easytrader.ir/assets/icons/icon-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "D:\\Project\\switch-app-apk\\android.keystore",
+    "alias": "switch-app"
+  },
+  "appVersionName": "3",
+  "appVersionCode": 3,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://m.orbis.easytrader.ir/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://stage-sw.emofid.com/",
+  "minSdkVersion": 19,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "3"
+}

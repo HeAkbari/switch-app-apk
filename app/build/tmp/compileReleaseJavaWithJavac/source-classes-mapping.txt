@@ -1,0 +1,8 @@
+com/sw/app/m/twa/Application.java
+ com.sw.app.m.twa.Application
+com/sw/app/m/twa/BuildConfig.java
+ com.sw.app.m.twa.BuildConfig
+com/sw/app/m/twa/LauncherActivity.java
+ com.sw.app.m.twa.LauncherActivity
+com/sw/app/m/twa/DelegationService.java
+ com.sw.app.m.twa.DelegationService
